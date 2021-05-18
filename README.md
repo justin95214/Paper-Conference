@@ -1,6 +1,13 @@
-# SAC2020
-Title : Time Series Analysis of Enhancing the Recognition of License Plate Number in Video Stream of IOT Camera
+Conference & Papaer Work
 
-Author : Doohyuk Chang
-paper link
-https://dl.acm.org/doi/abs/10.1145/3341105.3373941
+## CONFERENCE ORAL presentations 
+1. 2019.11. KMMS 2019
+
+2. 2020.02. SAC2020 -ACM
+
+3. 2020.07. KCC2020
+
+4. 2020.11. KSC2020
+
+
+
